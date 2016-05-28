@@ -1,0 +1,12 @@
+{
+  "name": "tax-tdd",
+  "version": "1.0.0",
+  "description": "An example of how to use TDD",
+  "main": "index.js",
+  "author": "SmartDev LLC",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
